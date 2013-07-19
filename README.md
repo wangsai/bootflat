@@ -24,7 +24,7 @@ BOOTFLAT FLAT UI includes some advanced mobile layout to create responsive elega
 
 ## Links:
 
-+ [Demo page](http://www.flathemes.com)
++ [Bootflat demo page](http://www.flathemes.com/docs.html)
 + [GitHub pages](http://flathemes.github.io/bootflat/)
 
 ## Useful Links:
