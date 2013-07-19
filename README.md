@@ -7,10 +7,6 @@ MIT License - [http://opensource.org/licenses/mit-license.html](http://opensourc
 
 Thanks for supporting our website and enjoy!
 
-## Changelog:
-
-2013/7/19 beta 1.0
-
 ## Feature:
 
 ### 1. Bootstrap Based
@@ -22,6 +18,9 @@ BOOTFLAT FLAT UI contains a large number of elements to enable web developer cre
 ### 4. Mobile Ready
 BOOTFLAT FLAT UI includes some advanced mobile layout to create responsive elegant mobile app.
 
+## Changelog:
+
+2013/7/19 beta 1.0
 
 ## Links:
 
