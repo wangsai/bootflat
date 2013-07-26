@@ -20,6 +20,8 @@ BOOTFLAT FLAT UI includes some advanced mobile layout to create responsive elega
 
 ## Changelog:
 
+2013/7/26 update the left nav flyout style
+
 2013/7/19 beta 1.0
 
 ## Links:
