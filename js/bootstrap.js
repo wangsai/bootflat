@@ -1605,7 +1605,7 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
     this.options        = $.extend({}, ScrollSpy.DEFAULTS, options)
     this.selector       = (this.options.target
       || ((href = $(element).attr('href')) && href.replace(/.*(?=#[^\s]+$)/, '')) //strip for ie7
-      || '') + ' .scrollspyNav li > a'
+      || '') + ' .nav li > a'
     this.offsets        = $([])
     this.targets        = $([])
     this.activeTarget   = null
