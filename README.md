@@ -5,7 +5,7 @@ BOOTFLAT is an open source Flat UI KIT based on Twitter Bootstrap 3 css framewor
 
 MIT License - [http://opensource.org/licenses/mit-license.html](http://opensource.org/licenses/mit-license.html).
 
-compatible browsers: IE8, IE9, IE10, Firefox, Safari, Opera, Chrome.
+Compatible Browsers: IE8, IE9, IE10, Firefox, Safari, Opera, Chrome.
 
 Thanks for supporting our website and enjoy!
 
