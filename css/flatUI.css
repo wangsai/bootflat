@@ -1246,6 +1246,11 @@ fieldset[disabled] .radio,
     border-top: 1px solid #3498db;
     border-bottom-color: #2980b9;
 }
+.tabs-below .nav-tabs .dropdown-menu {
+    -webkit-border-radius: 4px 4px 0 0;
+    -moz-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+}
 /*------------------------------------*\
     $tabs-left and $tabs-right
 \*------------------------------------*/
